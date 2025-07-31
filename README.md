@@ -1,6 +1,6 @@
 # Heart Disease Prediction Based on Django and Machine Learning Project Report
 
-**A Report for Data Processing Workshop I Final Project**
+**A Report for Data Processing Internship Final Project**
 
 
 
